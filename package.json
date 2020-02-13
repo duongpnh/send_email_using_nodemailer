@@ -1,0 +1,23 @@
+{
+  "name": "send_email_using_nodemailer",
+  "version": "1.0.0",
+  "description": "Send email using nodemailer",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duongagangiang/send_email_using_nodemailer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/duongagangiang/send_email_using_nodemailer/issues"
+  },
+  "homepage": "https://github.com/duongagangiang/send_email_using_nodemailer#readme",
+  "dependencies": {
+    "nodemailer": "^6.4.2"
+  }
+}
